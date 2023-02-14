@@ -34,7 +34,7 @@ python
 
 ### 시스템 작동 방식
 ---
-![initial](img/아이모드작동방식.png)  
+![initial](img/아이모드_작동_방식.png)  
 
 ### 수행 결과
 ---
